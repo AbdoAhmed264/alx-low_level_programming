@@ -5,7 +5,7 @@
  *    *@c: second value - char
  *     *
  *      * Return: char with result
- *       */
+ **/
 char *_strchr(char *s, char c)
 {
 
